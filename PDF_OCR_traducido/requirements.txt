@@ -1,0 +1,6 @@
+PyMuPDF
+pytesseract
+langdetect
+deep-translator
+reportlab
+PyPDF2

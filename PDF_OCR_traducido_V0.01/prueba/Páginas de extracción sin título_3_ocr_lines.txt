@@ -1,0 +1,424 @@
+Page 1	Y≈122	NunaGreen Appendix
+Page 1	Y≈129	205
+Page 1	Y≈200	Expansion of Hydroelectric Power Plant HPP3
+Page 1	Y≈220	Project 0001
+Page 1	Y≈230	no.
+Page 1	Y≈274	Outline proposal
+Page 1	Y≈301	24.03.2025
+Page 1	Y≈347	Expansion of Buksefjorden Hydroelectric Power Plant
+Page 1	Y≈497	Fellesregulativet
+Page 1	Y≈733	2022
+Page 1	Y≈2322	Tilslutning af
+Page 1	Y≈2475	elektriske installationer
+Page 1	Y≈2497	og
+Page 1	Y≈2627	brugsgenstande
+Page 1	Y≈115	Appendix
+Page 1	Y≈121	NunaGreen 202
+Page 1	Y≈175	Expansion of Hydroelectric Power Plant HPP3
+Page 1	Y≈184	Project 0001
+Page 1	Y≈191	no.
+Page 1	Y≈231	Outline proposal
+Page 1	Y≈244	24.03.2025
+Page 1	Y≈282	Expansion of Buksefjorden Hydroelectric Power Plant
+Page 1	Y≈1405	FORSKRIFTER FOR
+Page 1	Y≈1508	INDBRUDS- OG
+Page 1	Y≈1611	HAERVAERKSSIKRING
+Page 1	Y≈1714	AF GRONLANDSKE VARKER
+Page 1	Y≈115	DEXPLOC A/S
+Page 1	Y≈164	Smedeland 7
+Page 1	Y≈211	DK-2600 Glostrup
+Page 1	Y≈260	Telephone +45 43451538
+Page 1	Y≈307	E-mail: info@dexploc.com
+Page 1	Y≈529	Ansggning opbevaring af
+Page 1	Y≈556	om
+Page 1	Y≈666	eksplosivstoffer klasse 1 ved
+Page 1	Y≈803	vandkraftveerket i Buksefjorden
+Page 1	Y≈1028	1. Formal
+Page 1	Y≈1164	Pa af bygherre, NunaGreen Construction Nuuk A/S, har Dexploc A/S udarbejdet dette
+Page 1	Y≈1174	vegne
+Page 1	Y≈1231	dokument til ansggning godkendelse af etablering af et spreengstofdepot, der skal
+Page 1	Y≈1240	og
+Page 1	Y≈1297	anvendes i forbindelse med den planlagte udbygning af vandkraftveerket, etableres i
+Page 1	Y≈1362	2025 af lokal entreprenor, der forud for de egentlige udbygningsarbejder skal
+Page 1	Y≈1371	sommeren en
+Page 1	Y≈1427	foretage forbedringer udvidelser af de eksisterende arbejdsveje i omradet. Disse arbejder
+Page 1	Y≈1437	og
+Page 1	Y≈1489	udbydes i foraret
+Page 1	Y≈1495	2025.
+Page 1	Y≈1560	Det vil i forste den lokale entreprenor, der bliver ansvarlig for den daglige drift
+Page 1	Y≈1569	omgang veere
+Page 1	Y≈1626	af spraengstofdepotet.
+Page 1	Y≈1757	Den lokale entreprenor vil have godkendte spreengningsledere vil blive palagt at
+Page 1	Y≈1767	og
+Page 1	Y≈1824	administrere opbevaringen anvendelse af eksplosivstoffer i henhold til Grenlands
+Page 1	Y≈1833	og
+Page 1	Y≈1889	Hjemmestyre bekendtggrelse eksplosive stoffer BEK 16 af 16. juli 2007.
+Page 1	Y≈1898	om nr.
+Page 1	Y≈2021	Meddelelse involveret lokal entreprenor, spreengningsledere magasinledere vil blive
+Page 1	Y≈2030	om og
+Page 1	Y≈2086	sendt til Naalakkersuisut, nar aftale indgáet.
+Page 1	Y≈2096	er
+Page 1	Y≈2219	Ansvaret for depotet vil blive overdraget til den totalentreprenor, der udveelges til at
+Page 1	Y≈2228	senere
+Page 1	Y≈2284	forestá de egentlige udbygningsarbejder, herunder etablering af overfgringstunnel mellem
+Page 1	Y≈2351	Kangerluarsunnguup Tasersua (KANG) Isortuarsuup Tasia (ISTA) samt
+Page 1	Y≈2360	sgerne og en ny
+Page 1	Y≈2417	kraftstation ved KANG.
+Page 1	Y≈2548	Totalentrepriseudbuddet forventes gennemfart i lobet af 2025.
+Page 1	Y≈2670	Arsagen
+Page 1	Y≈2679	til, at bygherre veelger at godkendelse af spreengstofdepotet allerede pa
+Page 1	Y≈2689	ansage om
+Page 1	Y≈2746	nuveerende tidspunkt, at bygherre vil sikre, at anlzegsarbejderne kan igangseettes
+Page 1	Y≈2755	er, gerne
+Page 1	Y≈2811	hurtigst muligt efter, entreprisekontrakten vedrorende vejprojektet indgáet uden, at der skal
+Page 1	Y≈2821	er
+Page 1	Y≈2877	ventes pa, at entreprengren far indhentet tilladelse til opbevaring af eksplosivstofferne samt
+Page 1	Y≈2887	en
+Page 1	Y≈2944	godkendelse af depotet.
+Page 1	Y≈2953	en
+Page 1	Y≈3075	Der vil sandsynligvis blive brug for etablering af yderligere spreengstofdepoter i
+Page 1	Y≈3084	senere
+Page 1	Y≈3140	anlzegsfasen. Ansvaret for at fa disse depoter godkendt vil ligge hos totalentreprengren.
+Page 1	Y≈3252	Bank: Danske Bank A/S CVR (VAT) DK 42 21 80 73
+Page 1	Y≈3259	nr.
+Page 1	Y≈3291	Konto: 3409 13215111
+Page 1	Y≈3329	IBAN: DK6830000013215111
+Page 1	Y≈3367	SWIFT: DABADKKK
+Page 2	Y≈303	Udgave
+Page 2	Y≈411	INDHOLDSFORTEGNELSE 01.03.97
+Page 2	Y≈419	0.
+Page 2	Y≈521	BESTEMMELSER 01.03.97
+Page 2	Y≈527	% ALMINDELIGE
+Page 2	Y≈619	ANVENDELSESOMRADE
+Page 2	Y≈635	1.1 FORSKRIFTENS
+Page 2	Y≈690	1.2 FORSKRIFTENS FORMAL
+Page 2	Y≈741	BEGRANSNINGER | FORSKRIFTENS ANVENDELSE
+Page 2	Y≈748	1.3
+Page 2	Y≈800	1.4 HENVISNINGER
+Page 2	Y≈905	ANL/EGSTEKNISKE BEGREBER 01.03.97
+Page 2	Y≈914	2.
+Page 2	Y≈1016	BYGNINGSDELE OG MATERIALER
+Page 2	Y≈1022	2.1
+Page 2	Y≈1071	Sikringsklasser i.h.t. DS 471 (uddrag)
+Page 2	Y≈1077	2.1.1
+Page 2	Y≈1127	Sikringsniveauer Skafor I-IV
+Page 2	Y≈1133	2.1.2
+Page 2	Y≈1183	2.1.3 Klassifikation, bygningsdele
+Page 2	Y≈1236	AUTOMATISK INDBRUDSALARMANLZEG, AIA
+Page 2	Y≈1243	2.2
+Page 2	Y≈1291	2.2.1 Kilassifikation, AIA installationsomfang
+Page 2	Y≈1399	HAERV/ERK 01.03.97
+Page 2	Y≈1405	3. FOREBYGGELSE AF
+Page 2	Y≈1501	ARSAGER
+Page 2	Y≈1510	GENERELT OM TIL HARVARK OG
+Page 2	Y≈1517	3.1
+Page 2	Y≈1567	OM FOREBYGGELSE AF HARVARK
+Page 2	Y≈1624	3.2 GENERELLE FUNKTIONSKRAV
+Page 2	Y≈1730	INDBRUD 01.03.97
+Page 2	Y≈1737	4. FOREBYGGELSE AF
+Page 2	Y≈1834	ARSAGER
+Page 2	Y≈1843	GENERELT OM TIL INDBRUD OG
+Page 2	Y≈1850	4.1
+Page 2	Y≈1899	OM FOREBYGGELSE AF INDBRUD
+Page 2	Y≈1952	AF SIKRINGSFORANSTALTNINGER
+Page 2	Y≈1958	4.2 VALG
+Page 2	Y≈2061	INDBRUDSALARMANLA&G AIA 01.03.97
+Page 2	Y≈2071	5.
+Page 2	Y≈2178	5.1 ALMENT
+Page 2	Y≈2234	5.2 GRUNDLAG
+Page 2	Y≈2253	:
+Page 2	Y≈2285	KOMPONENTER OG INSTALLATION
+Page 2	Y≈2291	5.3
+Page 2	Y≈2343	5.3.1 Centraler
+Page 2	Y≈2397	5.3.2 Detektorer
+Page 2	Y≈2452	5.3.3 Kontakter
+Page 2	Y≈2507	5.3.4 Signalgivere
+Page 2	Y≈2561	5.3.5 Forbikoblere
+Page 2	Y≈2613	5.3.6 Samledáser
+Page 2	Y≈2671	5.3.7 Kabling
+Page 2	Y≈2726	5.3.8 Skiltning
+Page 2	Y≈2780	5.3.9 Alarmoverforsel
+Page 2	Y≈2834	5.3.10 Driftssignal
+Page 2	Y≈3104	0. Indholdsfortegnelse
+Page 2	Y≈3143	side 1
+Page 2	Y≈3152	1. marts 1997
+Page 2	Y≈250	Indhold
+Page 2	Y≈326	Ciel g =) >) | 4
+Page 2	Y≈365	ee
+Page 2	Y≈425	Formál 4
+Page 2	Y≈461	.......ccccccccccccccccecccccccseeneenseaeeeeeeeeeecceeseeeeesseaeeeeeeeeeeeeecseseeeeseeasaaeeeeeess
+Page 2	Y≈517	Gyldighedsomráde 20.0.2...
+Page 2	Y≈524	4
+Page 2	Y≈558	...cccecccceeesessssseeeeeeeeeeecceececssessnssseeeeeceeeeececeeesenteaaas
+Page 2	Y≈620	DEL A ADMINISTRATIVE BESTEMMELSER 8
+Page 2	Y≈654	.............ccccceeceeeeeeeeeeeees
+Page 2	Y≈716	1. Installationsforskrifter........................—.—-.. 8
+Page 2	Y≈751	.A
+Page 2	Y≈809	2. Tilmelding.......................ee.eeeeeeeeeeeeeeeeeee eee RA 8
+Page 2	Y≈910	3. Anvisning 9
+Page 2	Y≈944	2.0... cceecccccseeeeeeeceeeeeeeeeeeeeeeeesaeeeseeeseeaeeeeeseeeeeeeesaaeeeessegeeeeeeees
+Page 2	Y≈1002	4. . Idriftseetning reer 9
+Page 2	Y≈1040	eee
+Page 2	Y≈1102	5. £Stikledning 9
+Page 2	Y≈1137	ee
+Page 2	Y≈1193	|e) ol
+Page 2	Y≈1199	9
+Page 2	Y≈1233	ee
+Page 2	Y≈1291	7. — Tilslutning af produktionsanleeg batterianlaeg.....................————. 10
+Page 2	Y≈1306	og
+Page 2	Y≈1392	8. Tilslutning af forbrugsinstallationer forbrugsenheder................. 10
+Page 2	Y≈1403	og
+Page 2	Y≈1489	DEL B INSTALLATION OG TILSLUTNING 15
+Page 2	Y≈1523	................eeeeeeeeeceeceeceeeeees
+Page 2	Y≈1585	C-| 15
+Page 2	Y≈1620	ee
+Page 2	Y≈1682	TILSLUTNING TIL FORSYNINGSNETTET 17
+Page 2	Y≈1716	..............cccccceceeeeeeeeeeeeees
+Page 2	Y≈1775	10. Tilslutning i MAST ........ 17
+Page 2	Y≈1813	cc cece cee cceeeeeeeeceeeeeeeeeaeeeeeeesseaseeeessaaeeeesaaaaees
+Page 2	Y≈1875	11. Tilslutning ¡ kKabelSkab..............:::::::eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeteeeeees 17
+Page 2	Y≈1968	12. Anbringelse af materiel i hovedstromkredse for umalt strom.....18
+Page 2	Y≈2063	KORTSLUTNINGSSTROMME...................eeeeeeeeeeeeeeeeeeeeee e 19
+Page 2	Y≈2164	13. Generelt 19
+Page 2	Y≈2198	ee
+Page 2	Y≈2261	14. Installationer tilsluttet i lavspeendingsnet........................——...e..... 19
+Page 2	Y≈2350	MALERTAVLER, MALERSKABE
+Page 2	Y≈2357	INSTALLATION AF OG
+Page 2	Y≈2419	MALESEKTIONER
+Page 2	Y≈2427	20
+Page 2	Y≈2461	........c.ccccccccessescesscesceseceeceaceaeceesessesecsesessesneeesensenes
+Page 2	Y≈2519	15. GON Felt s 20
+Page 2	Y≈2557	e
+Page 2	Y≈2613	máler.........................eeeeemeiiiii e eee
+Page 2	Y≈2620	16. Adgang til 21
+Page 2	Y≈2712	17. Meerkning 21
+Page 2	Y≈2750	.........cc cece eceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeaaaeaaaaaas
+Page 2	Y≈2810	18. Placering af MAlere 21
+Page 2	Y≈2846	.............ccceccccccceseeceeeceeseeeeeeeeeeeeeeeeeeeeesnaeeeees
+Page 2	Y≈2908	DEL C UDF@RELSE AF MATERIEL 22
+Page 2	Y≈2943	.............cccccccecceeeeeeeeeeeeeeeeeeeeeees
+Page 2	Y≈2998	MALERTAVLER, MALERSKABE
+Page 2	Y≈3005	OG KOMBINATIONSSKABE .....22
+Page 2	Y≈115	-2-
+Page 2	Y≈152	DEXPLOC A/S
+Page 2	Y≈218	Tilsvarende vil det ogsa totalentreprengrens at indhente noedvendige
+Page 2	Y≈228	vere ansvar
+Page 2	Y≈285	godkendelse af depotet omfattet af neerveerende ansogning, hvis entreprengren ansker at
+Page 2	Y≈351	eendre pa oplagrede meengder, indretning o.l.
+Page 2	Y≈470	Ejer af spreengstofdepot falge:
+Page 2	Y≈479	er som
+Page 2	Y≈536	NunaGreen Construction Nuuk A/S
+Page 2	Y≈602	Indaleeggap Aqqutaa 12, kid.
+Page 2	Y≈668	Postboks 579
+Page 2	Y≈734	3900 Nuuk
+Page 2	Y≈866	TIf.: (+299) 36 36 50
+Page 2	Y≈931	E-mail: nunagreen@nunagreen.gl
+Page 2	Y≈997	CVR-nr.: 77 74 43 12
+Page 2	Y≈1173	2. Spreengstofdepot
+Page 2	Y≈1308	NunaGreen Construction Nuuk A/S har behov for i alt tre spreengstof containere pa 20’
+Page 2	Y≈1373	godkendt til opbevaring af eksplosivstoffer i fareklasse 1. Disse containere ikke defineret
+Page 2	Y≈1382	er
+Page 2	Y≈1439	yderligere i denne ansggning, eftersom de ikke indkgbt endnu. Der behov for at
+Page 2	Y≈1448	er er
+Page 2	Y≈1504	eftersende dokumentation i form af certifikater pa spreengstofcontainerne for at opná endelig
+Page 2	Y≈1570	godkendelse af containere spreengstofdepotet. Disse ville blive eftersendt sa snart
+Page 2	Y≈1580	og
+Page 2	Y≈1637	spreengstofcontainerne indkgbt.
+Page 2	Y≈1646	er
+Page 2	Y≈1839	3. Sikkerhedsafstande
+Page 2	Y≈1974	Koordinaterne for placering af spreengstofdepotet angivet i GR96 UTM-zone 22 (horisontalt)
+Page 2	Y≈1983	er
+Page 2	Y≈2039	GVR2016 (vertikalt) ud folgende:
+Page 2	Y≈2048	og og ser som
+Page 2	Y≈2171	Koordinater klasse 1:
+Page 2	Y≈2237	N 7088674
+Page 2	Y≈2303	E 506837
+Page 2	Y≈2369	H 111
+Page 2	Y≈2501	Afstand til naeermeste bygning (kommende GIS-bygning) 1.380
+Page 2	Y≈2510	~ m
+Page 2	Y≈2562	Afstand til eksisterende portalbygning 1 1.400
+Page 2	Y≈2575	< m
+Page 2	Y≈2632	Afstand til vej 5
+Page 2	Y≈2641	~ m
+Page 2	Y≈2764	Vejen bliver hovedsageligt anvendt af de entreprengrer, tilknyttet det samlede
+Page 2	Y≈2773	som er
+Page 2	Y≈2830	udbygningsprojekt samt af Nikissiorfiit ¡ forbindelse med driften af det eksisterende
+Page 2	Y≈2896	vandkraftveerk. Spreengstofdepotet ville ligge ost for det eksisterende vandkraftveerk med
+Page 2	Y≈2905	og
+Page 2	Y≈2962	tihorende adgangsvej transmissionslinje. Det eneste anleeg, der knyttet til driften af det
+Page 2	Y≈2971	og er
+Page 2	Y≈3027	eksisterende vandkraftveerk, pa den vestlige side af vejen, indtaget i KANG. Dette tilses
+Page 2	Y≈3037	er
+Page 2	Y≈3090	hojest ugen/hver 14. dag. | tilfeelde af spreengstofdepotet ¡ luften
+Page 2	Y≈3097	spreengt
+Page 2	Y≈3103	en gang om er og
+Page 2	Y≈3159	der brug for tilsyn ved indtaget, kan dette udfores med helikopter. Besogs brugs
+Page 2	Y≈3168	er og
+Page 3	Y≈298	AFPROVNING OG IDRIFTSATTELSE
+Page 3	Y≈304	5.4
+Page 3	Y≈398	NOGLE-/LÁSESYSTEM
+Page 3	Y≈406	01.03.97
+Page 3	Y≈412	6.
+Page 3	Y≈519	6.1 ALMENT
+Page 3	Y≈573	6.2 GRUNDLAG
+Page 3	Y≈627	6.3 KOMPONENTER OG MONTAGE
+Page 3	Y≈684	6.4 LASEPLANER
+Page 3	Y≈790	DRIFTM/ESSIGE FORHOLD 01.03.97
+Page 3	Y≈797	7.
+Page 3	Y≈904	7.1 ALMENT
+Page 3	Y≈955	7.2 VEDLIGEHOLDELSE, KONTROLPLAN
+Page 3	Y≈1010	7.2.1 Almindelig vedligeholdelse
+Page 3	Y≈1064	7.2.2 Láse
+Page 3	Y≈1119	7.2.3. Automatisk indbrudsalarmanlzeg (AIA)
+Page 3	Y≈1175	7.3 LEVERANDORER
+Page 3	Y≈1283	DOKUMENTATION 01.03.97
+Page 3	Y≈1290	8.
+Page 3	Y≈1395	8.1 DOKUMENTATION, ALMENT
+Page 3	Y≈1450	8.2 TEGNINGER OG ANLA GSBESKRIVELSE
+Page 3	Y≈1559	ELVARKER OG RESERVEELV/ERKER, 01.03.97
+Page 3	Y≈1566	9.
+Page 3	Y≈1617	SARLIGE BESTEMMELSER
+Page 3	Y≈1673	9.1 ALMENT
+Page 3	Y≈1727	9.2 BY GNINGSDELE
+Page 3	Y≈1782	9.3 INDBRUDSALARMANL/EG AIA
+Page 3	Y≈1837	9.4 N@GLE- OG LASESYSTEMER
+Page 3	Y≈1895	9,5 HEGN
+Page 3	Y≈1950	9.6 ANDET
+Page 3	Y≈2054	S4RLIGE BESTEMMELSER 01.03.97
+Page 3	Y≈2060	10. N@DELV/AERKER,
+Page 3	Y≈2169	10.1 ALMENT
+Page 3	Y≈2223	10.2 BY GNINGSDELE
+Page 3	Y≈2277	10.3 INDBRUDSALARMANLAG AIA
+Page 3	Y≈2332	10.4 NOGLE- OG LASESYSTEMER
+Page 3	Y≈2389	10.5 HEGN
+Page 3	Y≈2445	10.6 ANDET
+Page 3	Y≈2601	BESTEMMELSER 01.03.97
+Page 3	Y≈2607	11. VARMEVZERKER, SARLIGE
+Page 3	Y≈2719	11.1 ALMENT
+Page 3	Y≈2772	11.2 BYGNINGSDELE
+Page 3	Y≈3096	0. Indholdsfortegnelse
+Page 3	Y≈3137	side 2
+Page 3	Y≈3143	1. marts 1997
+Page 3	Y≈242	máler RRR RRR REE
+Page 3	Y≈248	19. Plads til 22
+Page 3	Y≈282	........................eeeeee
+Page 3	Y≈338	20. Málerskabe re RRR eee eee
+Page 3	Y≈345	22
+Page 3	Y≈379	........................000eeemeener
+Page 3	Y≈439	21. Klemreekker for málertilslutning 22
+Page 3	Y≈475	................--—.-—.——.=..eeee
+Page 3	Y≈530	MALESEKTIONER
+Page 3	Y≈537	| LAVSP£ANDINGSTAVLER.....................meem..—. 23
+Page 3	Y≈630	22. Cra t=) | 23
+Page 3	Y≈668	ee
+Page 3	Y≈727	23. Stromtransformere............................eeeeeee 24
+Page 3	Y≈765	RRR
+Page 3	Y≈823	24. Spendingstransformere 26
+Page 3	Y≈861	.......................eeeeeeeeeeeeeeeeee
+Page 3	Y≈917	Maálerfelter De e eeec
+Page 3	Y≈924	25. 27
+Page 3	Y≈958	........................ieimieniri rrenreerererreenrececeee
+Page 3	Y≈1016	26. Speendings- stromkredse 28
+Page 3	Y≈1031	og
+Page 3	Y≈1054	.......................eeeeeeeeeeeeeeeeeeee
+Page 3	Y≈1117	27. TiISIUTNINGSENNED 28
+Page 3	Y≈1151	.............ecccccccseeeeeeceeeeeeeeeeaeeeeeesaeaeeeeessueeeesaaaaees
+Page 3	Y≈1209	STIKORDSREGISTER eee nenee 32
+Page 3	Y≈1247	......................eeeeeeeeeeeereenee eee
+Page 4	Y≈299	11.3. INDBRUDSALARMANLAG AIA
+Page 4	Y≈354	11.4 N@GLE- OG LASESYSTEMER
+Page 4	Y≈412	11.5 HEGN
+Page 4	Y≈466	11.6 ANDET
+Page 4	Y≈570	12. VANDVZERKER, SAGERLIGE BESTEMMELSER 01.03.97
+Page 4	Y≈685	12.1 ALMENT
+Page 4	Y≈738	12.2 BYGNINGSDELE
+Page 4	Y≈792	12.3 INDBRUDSALARMANLAG AIA
+Page 4	Y≈835	LASESYSTEMER
+Page 4	Y≈848	12.4 N@GLE- OG
+Page 4	Y≈906	12.5 HEGN
+Page 4	Y≈960	12.6 ANDET
+Page 4	Y≈1063	ADMINISTRATIONSBYGNINGER, S/ERLIGE BESTEMMELSER 01.03.97
+Page 4	Y≈1072	13.
+Page 4	Y≈1179	13.1 ALMENT
+Page 4	Y≈1232	13.2 BYGNINGSDELE
+Page 4	Y≈1285	13.3 INDBRUDSALARMANLAG AIA
+Page 4	Y≈1330	LASESYSTEMER
+Page 4	Y≈1343	13.4 N@GLE- OG
+Page 4	Y≈1399	13.5 HEGN
+Page 4	Y≈1454	13.6 ANDET
+Page 4	Y≈1559	S/ERLIGE BESTEMMELSER 01.03.97
+Page 4	Y≈1565	14. OPLAGSHALLER,
+Page 4	Y≈1675	14.1 ALMENT
+Page 4	Y≈1729	14.2 BYGNINGSDELE
+Page 4	Y≈1784	14.3 INDBRUDSALARMANLAG AIA
+Page 4	Y≈1839	14.4 N@GLE- OG LASESYSTEMER
+Page 4	Y≈1896	14.5 HEGN
+Page 4	Y≈1951	14.6 ANDET
+Page 4	Y≈2054	S/AERLIGE BESTEMMELSER 01.03.97
+Page 4	Y≈2060	15. OPLAGSPLADSER,
+Page 4	Y≈2171	15.1 ALMENT
+Page 4	Y≈2225	15.2 BYGNINGSDELE
+Page 4	Y≈2279	15.3 INDBRUDSALARMANLAG AIA
+Page 4	Y≈2333	15.4 N@GLE- OG LASESYSTEMER
+Page 4	Y≈2391	15.5 HEGN
+Page 4	Y≈3098	0. Indholdsfortegnelse
+Page 4	Y≈3134	side 3
+Page 4	Y≈3145	1. marts 1997
+Page 3	Y≈115	-3-
+Page 3	Y≈152	DEXPLOC A/S
+Page 3	Y≈219	frekvensen af vejen derfor veerende minimal udggr ikke betydelig risiko
+Page 3	Y≈228	anses som og nogen
+Page 3	Y≈285	for driften af eksisterende vandkraftveerk.
+Page 3	Y≈489	4.Indhegning, konstruktion indretning af
+Page 3	Y≈503	og
+Page 3	Y≈575	sprengstofdepot
+Page 3	Y≈734	Der opszettes et 1,8 hojt hegn omkring depotet. Hegnet, der vil slutte teet til terreen, vil
+Page 3	Y≈743	m
+Page 3	Y≈799	foroven blive afsluttet med tre raekker pigtrád med 15 mellemrum, der heelder 45 grader
+Page 3	Y≈809	cm
+Page 3	Y≈864	veek fra depotet. Hegnet vil desuden blive udstyret med udadgaende aflaselig port, sa
+Page 3	Y≈874	en
+Page 3	Y≈931	uvedkommende ikke har adgang til depotet.
+Page 3	Y≈1088	Nedenfor principskitse af layoutet til spreengstofdepotet. Porten ind til soreengstofdepotet
+Page 3	Y≈1097	er en
+Page 3	Y≈1149	skal konstrueret pa sadan made de abner udad i tilfeelde af der falder
+Page 3	Y≈1157	at storre
+Page 3	Y≈1163	veere en
+Page 3	Y≈1220	meengder derved effektivt kan komme ind rydde spreengstofdepotet. Dertil skal
+Page 3	Y≈1229	sne og man og
+Page 3	Y≈1286	der tages hensyn til folgende:
+Page 3	Y≈1352	Minimum 2 meters afstand fra det ydre hegn til spraengstofcontainerne. Dog ber
+Page 3	Y≈1372	-
+Page 3	Y≈1417	afstanden storre hvis sneskovlen det snerydningsudstyr, entreprengren
+Page 3	Y≈1426	veere og som
+Page 3	Y≈1483	anvender storre. F.eks. skoviens bredde 3,2 meter bor der 3,5 4 meter
+Page 3	Y≈1492	er er veere
+Page 3	Y≈1503	—
+Page 3	Y≈1548	imellem saledes der ogsa sikkerhedsmargen for udstyret.
+Page 3	Y≈1558	er en
+Page 3	Y≈1615	Minimum 2 meters afstand imellem hver enkelt container efter princip, hvis
+Page 3	Y≈1624	og samme
+Page 3	Y≈1635	-
+Page 3	Y≈1681	sneskovien snerydningsudstyr storre, ber afstanden derefter.
+Page 3	Y≈1690	og er vere
+Page 3	Y≈1746	En stor nok afstand imellem dorábningen til spreengstofcontainerne til hegnet der
+Page 3	Y≈1767	-
+Page 3	Y≈1812	tillader sikker af- paleesning af spreengstoffer ind ud af containerne. F.eks.
+Page 3	Y≈1822	en og og en
+Page 3	Y≈1879	teleskopleesser, gaffeltruck eller lign. maskinelt udstyr.
+Page 3	Y≈2144	Container
+Page 3	Y≈2490	—
+Page 3	Y≈2509	Hegn
+Page 3	Y≈2616	Princip for hegn, 1:100 Planudsnit spreengstofmagasin, 1:750
+Page 3	Y≈2721	Der blevet indsamlet udtalelser fra den driftsansvarlige ved vandkraftveerket, har veeret
+Page 3	Y≈2730	er som
+Page 3	Y≈2786	tilknyttet veerket siden idriftseettelsen godt 30 ar siden, der ikke blevet observeret eller
+Page 3	Y≈2796	or og er
+Page 3	Y≈2852	registreret laviner i omrádet hvor spreengstofdepotet onsker at blive anlagt. Derimod der
+Page 3	Y≈2862	er
+Page 3	Y≈2918	observeret to omráder markeret nedenfor, hvor del af den eksisterende vej skyllet vaek
+Page 3	Y≈2928	en er
+Page 3	Y≈2984	et arene. Spreengstofdepotets placering indset pa et kort med
+Page 3	Y≈2994	par gange over er en
+Page 3	Y≈3050	ortofotobaggrund nedenfor placeret imellem disse to omrader.
+Page 3	Y≈3060	og er

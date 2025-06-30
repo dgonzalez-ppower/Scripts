@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PDF Bookmark Splitter - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f2f2f2; }
+		h2 { color: #34495e; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2c3e50; }
+	</style>
+</head>
+<body>
+	<h1>PDF Bookmark Splitter - User Guide / Guía de Usuario</h1>
+
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+
+			<div class="section">
+				<h3>Introduction</h3>
+				<p>This script allows you to take a PDF file with bookmarks and automatically split it into separate PDF files. Each new file is saved in a folder named after its corresponding bookmark. This is useful for batch processing documents like reports, certificates, or invoices where each section needs to be isolated.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Install Python</h3>
+				<ol>
+					<li>Go to <a href="https://www.python.org/downloads/" target="_blank">python.org/downloads</a>.</li>
+					<li>Download the version for Windows.</li>
+					<li>Run the installer. <hol>Important:</hol> Check <hol>"Add Python to PATH"</hol> before installing.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Install Required Libraries</h3>
+				<ol>
+					<li>Open <hol>PowerShell</hol> (press Start, type "PowerShell").</li>
+					<li>Type this command and press Enter:<br><code>pip install pymupdf PyPDF2</code></li>
+					<li>Wait for the installation to finish.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. How to Use</h3>
+				<ol>
+					<li>Download and save the script (e.g., <code>Bookmark_2_Folders_2_Files_v0.08.py</code>).</li>
+					<li>Double-click it or run from PowerShell:<br><code>python Bookmark_2_Folders_2_Files_v0.08.py</code></li>
+					<li>Click the <hol>Select PDF File</hol> button and choose a PDF with bookmarks.</li>
+					<li>The tool will create folders for each bookmark and extract the relevant PDF pages into them.</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+
+			<div class="section">
+				<h3>Introducción</h3>
+				<p>Este script permite tomar un archivo PDF con marcadores y dividirlo automáticamente en archivos PDF separados. Cada nuevo archivo se guarda en una carpeta con el nombre del marcador correspondiente. Es ideal para procesar documentos por lotes como informes, certificados o facturas que necesitan dividirse por secciones.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Instalar Python</h3>
+				<ol>
+					<li>Ve a <a href="https://www.python.org/downloads/" target="_blank">python.org/downloads</a>.</li>
+					<li>Descarga la versión para Windows.</li>
+					<li>Ejecuta el instalador. <hol>Importante:</hol> Marca <hol>"Add Python to PATH"</hol> antes de instalar.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Instalar Librerías Necesarias</h3>
+				<ol>
+					<li>Abre <hol>PowerShell</hol> (haz clic en Inicio y escribe "PowerShell").</li>
+					<li>Escribe el siguiente comando y presiona Enter:<br><code>pip install pymupdf PyPDF2</code></li>
+					<li>Espera a que termine la instalación.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. Cómo Usar</h3>
+				<ol>
+					<li>Descarga y guarda el script (por ejemplo: <code>Bookmark_2_Folders_2_Files_v0.08.py</code>).</li>
+					<li>Haz doble clic o ejecútalo desde PowerShell:<br><code>python Bookmark_2_Folders_2_Files_v0.08.py</code></li>
+					<li>Haz clic en el botón <hol>Select PDF File</hol> y elige un PDF con marcadores.</li>
+					<li>La herramienta creará carpetas por cada marcador y extraerá las páginas correspondientes.</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,228 @@
+Page 1	Y≈311	Udgave
+Page 1	Y≈416	INDHOLD
+Page 1	Y≈423	0 01.02.97
+Page 1	Y≈535	1 ALMINDELIGE BESTEMMELSER 01.02.97
+Page 1	Y≈646	1.1 Forskriftens anvendelsesomrade
+Page 1	Y≈697	— formal
+Page 1	Y≈705	1.2 Forskriftens
+Page 1	Y≈760	1.3 Begrzensninger i forskriftens anvendelse
+Page 1	Y≈818	1.4 Henvisninger
+Page 1	Y≈874	1.5 Ordforklaringer
+Page 1	Y≈986	2 BRANDTEKNISKE BEGREBER 01.02.97
+Page 1	Y≈1100	2.1 Bygningsdele materialer
+Page 1	Y≈1109	og
+Page 1	Y≈1213	3 BRANDCELLER OG BRANDSEKTIONER M.V. 01.02.97
+Page 1	Y≈1326	3.1 Alment
+Page 1	Y≈1382	3.2 Gennembrydninger i brandsektions- brandcelleadskillelser
+Page 1	Y≈1391	og
+Page 1	Y≈1496	4 BRANDTEKNISKE INSTALLATIONER 01.02.97
+Page 1	Y≈1609	4.1 Alment
+Page 1	Y≈1664	4.2 Brandvandforsyning
+Page 1	Y≈1722	4.3 Stigror til brandslukning
+Page 1	Y≈1779	4.4 Materiel til slukning med vand
+Page 1	Y≈1833	4.5 Vandfyldt slangevinde
+Page 1	Y≈1891	4.6 Automatisk vandsprinkleranleeg
+Page 1	Y≈1945	4.7 Vandtageanleeg, hojtryk
+Page 1	Y≈2002	4.8 Vandtágeanlesg, lavtryk
+Page 1	Y≈2062	4.9 Stationzere CO, slukningsanleeg
+Page 1	Y≈2117	4.10 Slukningsanlaeg med halon
+Page 1	Y≈2174	4.11. Automatisk slukningsanlaeg med nitrogen
+Page 1	Y≈2231	4.12 Automatisk brandalarmanlzeg, ABA-anleeg
+Page 1	Y≈2284	4.13 Automatisk branddgrlukningsanleeg, ABDL -anleeg
+Page 1	Y≈2343	4.14 Automatisk brandventilation, ABV-anleeg
+Page 1	Y≈2400	4.15 Nodbelysning
+Page 1	Y≈2503	HANDSLUKNINGSMATERIEL
+Page 1	Y≈2513	5 01.02.97
+Page 1	Y≈2624	5.1 Alment
+Page 1	Y≈2681	5.2 Kulsyresneslukker, CO, slukker
+Page 1	Y≈2737	5.3 Pulverslukker
+Page 1	Y≈2791	5.4 Halonhándsiukker
+Page 1	Y≈2846	5.5 Hándsprojtebatteri
+Page 1	Y≈2905	5.6 Brandteeppe
+Page 1	Y≈3053	0. Indholdsfortegnelse
+Page 1	Y≈3099	1. februar 1997 Side 1
+Page 2	Y≈309	6 BRANDBEREDSKAB 01.02.97
+Page 2	Y≈423	6.1 Beredskabsplan
+Page 2	Y≈480	6.2 Brandinstruks
+Page 2	Y≈592	7 FOLGESKADEBEKAEMPELSE EFTER BRAND 01.02.97
+Page 2	Y≈708	7.1 Alment
+Page 2	Y≈765	7.2 Trin 4
+Page 2	Y≈821	7.3 Trin 2
+Page 2	Y≈878	7.4 Trin 3
+Page 2	Y≈932	7.5 Generelt korrosionsbeskyttende foranstaltninger
+Page 2	Y≈944	om
+Page 2	Y≈1045	8 DRIFTSMAESSIGE FORHOLD 01.02.97
+Page 2	Y≈1161	8.1 Alment
+Page 2	Y≈1214	8.2 Omrádernes anvendelse brandbelastning
+Page 2	Y≈1226	og
+Page 2	Y≈1274	8.3 Placering af trykflasker
+Page 2	Y≈1331	8.4 Flugtveje
+Page 2	Y≈1388	8.5 Varmt arbejde
+Page 2	Y≈1444	8.6 Vedligeholdelse af brandsikring
+Page 2	Y≈1500	8.7 Koordinering af service
+Page 2	Y≈1558	8.8 Leverandgrer
+Page 2	Y≈1613	8.9 Oversigt periodiske kontroller eftersyn 01.02.97
+Page 2	Y≈1623	over og
+Page 2	Y≈1728	9 DOKUMENTATION, RAPPORTERING M.V. 01.02.97
+Page 2	Y≈1843	9.1 Dokumentation, alment
+Page 2	Y≈1900	9.2 Tegninger
+Page 2	Y≈1957	9.3 Anleegsbeskrivelse
+Page 2	Y≈2013	9.4 Driftjournal
+Page 2	Y≈2067	9.5 Instruktioner (herunder andedraetsbeskyttelse)
+Page 2	Y≈2127	9.6 Sikkerhedssyn
+Page 2	Y≈2295	10 HOVED / RESERVEELV/ERKER,
+Page 2	Y≈2353	S/ERLIGE BESTEMMELSER 01.02.97
+Page 2	Y≈2466	10.1 Alment
+Page 2	Y≈2523	10.2 Brandceller brandsektioner
+Page 2	Y≈2531	og m.v.
+Page 2	Y≈2579	10.3 Brandtekniske installationer
+Page 2	Y≈2636	10.4 Materiel til siukning med vand
+Page 2	Y≈2689	10.5 Handslukningsmateriel
+Page 2	Y≈2745	10.6 Brandteepper
+Page 2	Y≈2859	11 NODELV/ERKER, S/ERLIGE BESTEMMELSER 01.02.97
+Page 2	Y≈3066	0. Indholdsfortegnelse
+Page 2	Y≈3112	1. februar 1997 Side 2
+Page 3	Y≈315	11.1. Alment
+Page 3	Y≈370	11.2 Brandceller brandsektioner
+Page 3	Y≈380	og m.v.
+Page 3	Y≈428	11.3 Brandtekniske installationer
+Page 3	Y≈485	11.4 Materiel til slukning med vand
+Page 3	Y≈538	11.5 Handslukningsmateriel
+Page 3	Y≈597	11.6 Brandteepper
+Page 3	Y≈710	12 TRANSFORMERSTATIONER, S/ERLIGE BESTEMMELSER 01.02.97
+Page 3	Y≈824	12.1. Alment
+Page 3	Y≈880	12.2 Brandceller brandsektioner
+Page 3	Y≈888	og m.v.
+Page 3	Y≈936	12.3 Brandtekniske installationer
+Page 3	Y≈990	124 Handslukningsmateriel
+Page 3	Y≈1106	13 VARMEV/ERKER, SAERLIGE BESTEMMELSER 01.02.97
+Page 3	Y≈1219	13.1. Alment
+Page 3	Y≈1276	13.2 Brandceller brandsektioner
+Page 3	Y≈1284	og m.v.
+Page 3	Y≈1331	13.3 Brandtekniske installationer
+Page 3	Y≈1388	13.4 Materiel til slukning med vand
+Page 3	Y≈1442	13.5 Handslukningsmateriel
+Page 3	Y≈1502	13.6 Brandteepper
+Page 3	Y≈1614	14 VANDV/ERKER, S/ERLIGE BESTEMMELSER 01.02.97
+Page 3	Y≈1728	14.1. Alment
+Page 3	Y≈1784	14.2 Brandceller brandsektioner
+Page 3	Y≈1795	og m.v.
+Page 3	Y≈1841	14.3 Brandtekniske installationer
+Page 3	Y≈1898	144 Materiel til slukning med vand
+Page 3	Y≈1953	14.5 Hándslukningsmaterie!
+Page 3	Y≈2011	14.6 Brandteepper
+Page 3	Y≈2122	15 PUMPE- OG TRYKFOROGERSTATIONER,
+Page 3	Y≈2179	SAERLIGE BESTEMMELSER 01.02.97
+Page 3	Y≈2294	15.1 Alment
+Page 3	Y≈2352	15.2 Brandceller brandsektioner
+Page 3	Y≈2359	og m.v.
+Page 3	Y≈2407	15.3 Brandtekniske installationer
+Page 3	Y≈2462	15.4 Handslukningsmateriel
+Page 3	Y≈2576	16 BILAG
+Page 3	Y≈2685	Bi Servicekontrakt 01.02.97
+Page 3	Y≈2743	B2 Danske / Grenlandske tekster, oversigt 01.02.97
+Page 3	Y≈2797	B3 Eksempler pa skilte 01.02.97
+Page 3	Y≈2854	B4 Eksempler pa lukning omkring installationer. 01.02.97
+Page 3	Y≈2911	B5 Brev fra Det Norske Veritas A/S 01.02.97
+Page 3	Y≈3064	0. Indholdsfortegnelse
+Page 3	Y≈3107	1. februar 1997 Side 3
+Page 4	Y≈296	ALMINDELIGE BESTEMMELSER
+Page 4	Y≈404	FORSKRIFTENS ANVENDELSESOMRADE
+Page 4	Y≈412	1.1
+Page 4	Y≈520	"Forskrifter for Brandsikring af Grenlandske Veerker" geelder for alle
+Page 4	Y≈579	Nukissiorfiit's elvaerker, varmeveerker vandveerker.
+Page 4	Y≈587	og
+Page 4	Y≈690	Forskriften erstatter de i maj 1993 udsendte "Tekniske Forskrifter for
+Page 4	Y≈746	Grgnlandske Elveerker".
+Page 4	Y≈912	FORSKRIFTENS FORMAL
+Page 4	Y≈919	1.2
+Page 4	Y≈1030	De grenlandske byers udvikling har medfert, at veerkernes konstante drift
+Page 4	Y≈1086	blevet absolut forudszetning for samfundets funktion. En skade efter
+Page 4	Y≈1095	er en
+Page 4	Y≈1139	brand kan medfgre sa store ulemper, det i veerst taenkelige tilfaelde kan
+Page 4	Y≈1145	at
+Page 4	Y≈1198	blive nodvendigt at evakuere dele af byens befolkning. Endvidere kan der
+Page 4	Y≈1251	pa varmeledninger pa af
+Page 4	Y≈1257	ske helt uoverskuelige skader vand- grund
+Page 4	Y≈1264	og
+Page 4	Y≈1313	frostspreengninger.
+Page 4	Y≈1424	Grgnlands Hjemmestyre har udgivet Bygningsreglement Tekniske
+Page 4	Y≈1434	og
+Page 4	Y≈1483	Forskrifter, der begge alment geeldende.
+Page 4	Y≈1491	er
+Page 4	Y≈1593	Denne forskrifts formál at stille krav angive bestemmelser ud
+Page 4	Y≈1604	er og over
+Page 4	Y≈1652	de alment gzeldende for at sikre,
+Page 4	Y≈1764	at der udfgres et ensartet hojt brandsikringsniveau for at minimere
+Page 4	Y≈1781	*
+Page 4	Y≈1821	risikoen for brand
+Page 4	Y≈1876	at skaderne bliver mindst mulige, hvis brand alligevel skulle opsta, sa
+Page 4	Y≈1892	¢
+Page 4	Y≈1934	veerkernes forsyning hurtigt kan genetableres.
+Page 4	Y≈2102	1.3 BEGR/ENSNINGER | FORSKRIFTENS ANVENDELSE
+Page 4	Y≈2215	Forskriften kan ikke tilsideseette krav fra bygningsmyndighed,
+Page 4	Y≈2272	brandmyndighed, arbejdstilsyn eller anden offentlig myndighed.
+Page 4	Y≈2443	1.4 HENVISNINGER
+Page 4	Y≈2554	Der henvises specielt til folgende reglementer, forskrifter, vejledninger
+Page 4	Y≈2622	m.v.:
+Page 4	Y≈2724	Grgnlands Bygningsreglement 1982 (GBR 82)
+Page 4	Y≈2740	»
+Page 4	Y≈2836	Tekniske Forskrifter for Brandfarlige Veesker gaeldende for Gronland
+Page 4	Y≈2853	*
+Page 4	Y≈2894	1987 (TFBVG)
+Page 4	Y≈3045	1. Almindelige bestemmelser
+Page 4	Y≈3090	1. februar 1997 Side 1
+Page 5	Y≈295	Cirkulzere retningslinier for tilslutning af automatiske
+Page 5	Y≈304	om_
+Page 5	Y≈351	brandalarmanieeg. Cirkulere 3/1994 udsendt af Greniands
+Page 5	Y≈360	nr.
+Page 5	Y≈407	Hjemmestyre, Direktoratet for Sundhed Miljo, Tilsynet med
+Page 5	Y≈417	og
+Page 5	Y≈465	brandveesenet.
+Page 5	Y≈574	Dansk Brandteknisk Instituts forskrifter':
+Page 5	Y≈634	231 Automatiske Branddgrlukningsanlaeg (ABDL)
+Page 5	Y≈691	232 Automatiske Brandalarmanleeg (ABA)
+Page 5	Y≈747	251 Automatiske Sprinkleranlzeg (AVS)
+Page 5	Y≈803	253 Automatiske Rumslukningsanlaeg (ARS)
+Page 5	Y≈913	Instituts vejledninger":
+Page 5	Y≈919	Dansk Brandteknisk
+Page 5	Y≈976	11 Kulsyreslukkere
+Page 5	Y≈1032	15 Vandfyldte slangevinder
+Page 5	Y≈1089	17 Vandslukkere
+Page 5	Y≈1147	18 Pulverslukkere
+Page 5	Y≈1203	26 Branddgre Brandporte
+Page 5	Y≈1212	og
+Page 5	Y≈1259	27 Automatisk Brandventilation (ABV)
+Page 5	Y≈1316	28 Tegningssymboler
+Page 5	Y≈1484	Noter:
+Page 5	Y≈1531	1. Dansk Brandteknisk Institut, forkortet DBI, dannet í 1991 ved sammenleegning
+Page 5	Y≈1537	er en
+Page 5	Y≈1578	af Dansk Brandveerns Komité, dele af Dantest de af SKAFOR's afdelinger,
+Page 5	Y≈1585	og som
+Page 5	Y≈1626	beskeeftiget med regelsaetninger brandsikringsanleeg inspektioner af disse
+Page 5	Y≈1632	var om og
+Page 5	Y≈1674	anleeg.
+Page 5	Y≈1767	SKAFOR's forskrifter vedrerende brandsikringsanlzeg samtidigt overdraget til DBI,
+Page 5	Y≈1774	er
+Page 5	Y≈1814	der fremover udgiver jourforer forskrifterne.
+Page 5	Y≈1822	og a
+Page 5	Y≈1977	1.5 ORDFORKLARING
+Page 5	Y≈2090	| forskriften anvendes forkortelser branchebestemte udtryk. De
+Page 5	Y≈2100	er og
+Page 5	Y≈2148	hyppigst anvendte forklaret ¡ dette afsnit.
+Page 5	Y≈2158	er
+Page 5	Y≈2258	ABA-anlzeg: Automatisk brandalarmanleeg
+Page 5	Y≈2315	ABDL-anleg: Automatisk brandd@rlukningsanleeg
+Page 5	Y≈2370	ARS-anlzeg: Automatisk rumslukningsanleeg
+Page 5	Y≈2427	AVS-anleg: Automatisk vandsprinkleranlaeg
+Page 5	Y≈2484	DBI: Dansk Brandteknisk Institut
+Page 5	Y≈2541	EGT: Energitjenesten
+Page 5	Y≈2597	ELFO/F.R.I: Elinstallatorernes Landsforening/
+Page 5	Y≈2654	Foreningen af Rádgivende Ingenigrer
+Page 5	Y≈2714	ETA-Danmark A/S: European Technical Approval
+Page 5	Y≈2769	(Europeisk teknisk godkendelse af
+Page 5	Y≈2827	byggevarer)
+Page 5	Y≈2882	GBR 82: Grgnlands Bygningsreglement 1982
+Page 5	Y≈2935	HKT/DTA: Hovedkontoret, Driftteknisk Afdeling
+Page 5	Y≈3053	1. Almindelige bestemmelser
+Page 5	Y≈3100	1. februar 1997 Side 2

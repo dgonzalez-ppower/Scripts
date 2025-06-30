@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Folder Cover Generator - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9; }
+		h2, h3 { color: #2c3e50; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2980b9; }
+	</style>
+</head>
+<body>
+	<h1>Folder Cover Generator - User Guide / Guía de Usuario</h1>
+
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+
+			<div class="section">
+				<h3>Introduction</h3>
+				<p>This tool creates personalized cover pages for each folder or subfolder using a Word document template. It replaces the placeholder <code>{{FOLDER_NAME}}</code> in the template with the folder name and exports the result as a Word and PDF file. You can choose between generating covers just for first-level folders or all nested subfolders recursively.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Installing Python</h3>
+				<ol>
+					<li>Go to <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Download the Windows installer.</li>
+					<li><hol>IMPORTANT:</hol> Check the option <hol>"Add Python to PATH"</hol> before clicking install.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Installing Required Libraries</h3>
+				<ol>
+					<li>Open <hol>PowerShell</hol>.</li>
+					<li>Type and run:<br><code>pip install python-docx docx2pdf</code></li>
+					<li>Make sure Microsoft Word is installed (required for PDF conversion).</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. How to Use the Script</h3>
+				<ol>
+					<li>Run the script: <code>caratulas_subcarpetas_v0.02.py</code>.</li>
+					<li>Select your Word template (.docx) that includes the text <code>{{FOLDER_NAME}}</code>.</li>
+					<li>Select the root folder that contains subfolders.</li>
+					<li>Choose whether to generate covers only for first-level subfolders or recursively for all.</li>
+					<li>Click <hol>Generate Covers</hol>. A Word and PDF cover will be created in each folder.</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+
+			<div class="section">
+				<h3>Introducción</h3>
+				<p>Esta herramienta crea portadas personalizadas para cada carpeta o subcarpeta utilizando una plantilla de Word. Reemplaza el texto <code>{{FOLDER_NAME}}</code> con el nombre de la carpeta y exporta el resultado como documento de Word y PDF. Puedes elegir generar portadas solo para las subcarpetas de primer nivel o para todas de forma recursiva.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Instalar Python</h3>
+				<ol>
+					<li>Ve a <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Descarga el instalador para Windows.</li>
+					<li><hol>IMPORTANTE:</hol> Marca la opción <hol>"Add Python to PATH"</hol> antes de hacer clic en instalar.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Instalar Librerías Necesarias</h3>
+				<ol>
+					<li>Abre <hol>PowerShell</hol>.</li>
+					<li>Escribe y ejecuta:<br><code>pip install python-docx docx2pdf</code></li>
+					<li>Asegúrate de tener instalado Microsoft Word (necesario para convertir a PDF).</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. Cómo Usar el Script</h3>
+				<ol>
+					<li>Ejecuta el script: <code>caratulas_subcarpetas_v0.02.py</code>.</li>
+					<li>Selecciona tu plantilla de Word (.docx) que contenga <code>{{FOLDER_NAME}}</code>.</li>
+					<li>Selecciona la carpeta raíz con subcarpetas.</li>
+					<li>Elige si quieres generar carátulas solo para subcarpetas de primer nivel o de forma recursiva.</li>
+					<li>Haz clic en <hol>Generar Carátulas</hol>. Se creará una carátula Word y PDF en cada carpeta.</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

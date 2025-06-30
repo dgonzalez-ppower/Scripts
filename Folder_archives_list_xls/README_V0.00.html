@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Folder File Listing Tool - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; background-color: #f9f9f9; padding: 20px; line-height: 1.6; }
+		h2, h3 { color: #2c3e50; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2980b9; }
+	</style>
+</head>
+<body>
+	<h1>Folder File Listing Tool - User Guide / Guía de Usuario</h1>
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+			<div class="section">
+				<h3>1. Introduction</h3>
+				<p>This tool allows you to select a folder and automatically generate an Excel file listing all files in that folder (including subfolders), along with their full path and size in kilobytes.</p>
+			</div>
+
+			<div class="section">
+				<h3>2. Functional Description</h3>
+				<ul>
+					<li>Opens a dialog to select the folder to analyze.</li>
+					<li>Walks through the folder and all subfolders using <code>os.walk()</code>.</li>
+					<li>For each file, stores the file name, full path, and size in KB.</li>
+					<li>Generates a Pandas DataFrame and exports it to <code>listado_archivos.xlsx</code> in the same folder.</li>
+					<li>Displays a confirmation message upon successful export.</li>
+				</ul>
+			</div>
+
+			<div class="section">
+				<h3>3. Installing Python</h3>
+				<ol>
+					<li>Go to <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Download and install Python. <hol>Make sure to check "Add Python to PATH".</hol></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>4. Installing Required Libraries</h3>
+				<ol>
+					<li>Open PowerShell.</li>
+					<li>Run:<br><code>pip install pandas openpyxl</code></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>5. How to Use</h3>
+				<ol>
+					<li>Run <code>Listado_Archivos_Carpeta.py</code>.</li>
+					<li>Select the folder you want to list.</li>
+					<li>The script will create an Excel file named <code>listado_archivos.xlsx</code> in that folder.</li>
+					<li>A confirmation message will appear once the file is saved.</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+			<div class="section">
+				<h3>1. Introducción</h3>
+				<p>Esta herramienta te permite seleccionar una carpeta y generar automáticamente un archivo Excel con el listado de todos los archivos dentro de ella (incluyendo subcarpetas), con su ruta completa y tamaño en kilobytes.</p>
+			</div>
+
+			<div class="section">
+				<h3>2. Descripción Funcional</h3>
+				<ul>
+					<li>Abre un cuadro de diálogo para seleccionar la carpeta a analizar.</li>
+					<li>Recorre la carpeta y sus subcarpetas usando <code>os.walk()</code>.</li>
+					<li>Para cada archivo, guarda su nombre, ruta completa y tamaño en KB.</li>
+					<li>Genera un DataFrame de Pandas y lo exporta como <code>listado_archivos.xlsx</code> en la misma carpeta.</li>
+					<li>Muestra un mensaje de confirmación al finalizar.</li>
+				</ul>
+			</div>
+
+			<div class="section">
+				<h3>3. Instalar Python</h3>
+				<ol>
+					<li>Visita <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Descarga e instala Python. <hol>Asegúrate de marcar "Add Python to PATH".</hol></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>4. Instalar Librerías Necesarias</h3>
+				<ol>
+					<li>Abre PowerShell.</li>
+					<li>Ejecuta:<br><code>pip install pandas openpyxl</code></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>5. Cómo Usar</h3>
+				<ol>
+					<li>Ejecuta <code>Listado_Archivos_Carpeta.py</code>.</li>
+					<li>Selecciona la carpeta que deseas listar.</li>
+					<li>El script creará un archivo Excel llamado <code>listado_archivos.xlsx</code> en esa misma carpeta.</li>
+					<li>Aparecerá un mensaje de confirmación al guardar el archivo.</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

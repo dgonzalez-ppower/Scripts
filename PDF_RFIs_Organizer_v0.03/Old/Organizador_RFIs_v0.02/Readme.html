@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>README - Organizador de RFIs</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 2em;
+			background-color: #f9f9f9;
+			color: #333;
+			line-height: 1.6;
+		}
+		h1, h2, h3 {
+			color: #2c3e50;
+		}
+		code {
+			background-color: #eef;
+			padding: 0.2em 0.4em;
+			border-radius: 4px;
+			font-family: Consolas, monospace;
+		}
+		pre {
+			background: #eee;
+			padding: 1em;
+			overflow-x: auto;
+			border-left: 4px solid #ccc;
+		}
+	</style>
+</head>
+<body>
+	<h1>📂 README - Organizador de RFIs</h1>
+
+	<h2>📘 Versión en Español</h2>
+	<p>Este proyecto es una herramienta interactiva con interfaz gráfica (GUI) desarrollada en Python para facilitar el procesamiento, organización y clasificación de archivos PDF de RFIs (Request For Information), utilizando un archivo Excel como índice de referencia.</p>
+
+	<h3>⚙️ Descripción Funcional</h3>
+	<p>El sistema está compuesto por dos scripts principales:</p>
+	<ul>
+		<li><strong>Organizador_RFIs.py:</strong> GUI principal para seleccionar carpeta de PDFs e índice Excel. Ejecuta el proceso, muestra logs y genera un reporte final.</li>
+		<li><strong>Organizador_RFIs_funciones.py:</strong> Contiene funciones para extraer bookmarks, dividir PDFs, moverlos y generar logs.</li>
+	</ul>
+
+	<h3>📦 Requisitos</h3>
+	<ul>
+		<li>Python 3.7+</li>
+		<li>Librerías: <code>pandas</code>, <code>PyPDF2</code></li>
+	</ul>
+
+	<h3>🚀 Cómo usar</h3>
+	<ol>
+		<li>Ejecutar <code>Organizador_RFIs.py</code></li>
+		<li>Seleccionar carpeta con PDFs</li>
+		<li>Seleccionar archivo Excel</li>
+		<li>Presionar "Procesar"</li>
+		<li>Revisar resultado y logs generados</li>
+	</ol>
+
+	<h3>📁 Estructura del Excel</h3>
+	<ul>
+		<li>Nombre RFI</li>
+		<li>Subindice</li>
+		<li>Nombre PDF Destino</li>
+		<li>Enlace Destino</li>
+	</ul>
+
+	<h3>📄 Licencia</h3>
+	<p>MIT License</p>
+
+	<hr>
+
+	<h2>📘 English Version</h2>
+	<p>This project is a Python-based GUI tool for organizing and processing RFI (Request For Information) PDF files, using a reference Excel file. It supports auto-splitting PDFs using bookmarks, renaming and moving them to target folders.</p>
+
+	<h3>⚙️ Functional Description</h3>
+	<p>The project consists of two main scripts:</p>
+	<ul>
+		<li><strong>Organizador_RFIs.py:</strong> The main GUI script that lets users choose a PDF folder and Excel index, processes files, displays logs, and generates a final report.</li>
+		<li><strong>Organizador_RFIs_funciones.py:</strong> Contains core logic for extracting bookmarks, splitting PDFs, moving them and generating logs.</li>
+	</ul>
+
+	<h3>📦 Requirements</h3>
+	<ul>
+		<li>Python 3.7+</li>
+		<li>Libraries: <code>pandas</code>, <code>PyPDF2</code></li>
+	</ul>
+
+	<h3>🚀 How to Use</h3>
+	<ol>
+		<li>Run <code>Organizador_RFIs.py</code></li>
+		<li>Select folder containing PDFs</li>
+		<li>Select Excel index file</li>
+		<li>Click "Procesar"</li>
+		<li>Check generated logs and report</li>
+	</ol>
+
+	<h3>📁 Excel Structure</h3>
+	<ul>
+		<li>RFI Name</li>
+		<li>Subindex</li>
+		<li>Target PDF Name</li>
+		<li>Target Path</li>
+	</ul>
+
+	<h3>📄 License</h3>
+	<p>MIT License</p>
+</body>
+</html>

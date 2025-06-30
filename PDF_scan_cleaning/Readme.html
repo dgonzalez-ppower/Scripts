@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PDF Batch Cleaner and OCR Tool - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; }
+		h2, h3 { color: #2c3e50; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2980b9; }
+	</style>
+</head>
+<body>
+	<h1>PDF Batch Cleaner and OCR Tool - User Guide / Guía de Usuario</h1>
+
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+
+			<div class="section">
+				<h3>Introduction</h3>
+				<p>This script processes one or multiple PDF files, improving the quality of scanned pages and applying OCR (text recognition). It enhances contrast and brightness, recreates the PDF from improved images, and applies OCR using OCRmyPDF, generating a clean, searchable PDF.</p>
+			</div>
+
+			<div class="section">
+				<h3>2. Detailed Internal Functional Description</h3>
+				<p>The script works in the following way:</p>
+				<ul>
+					<li>It prompts the user to select a single PDF file or a folder containing multiple PDFs.</li>
+					<li>If a folder is selected, the user can choose whether to include subfolders.</li>
+					<li>It processes each PDF by:
+						<ul>
+							<li>Extracting each page as an image.</li>
+							<li>Applying brightness, contrast, and enhancement filters to clean and improve scanned quality.</li>
+							<li>Recreating a new PDF from the enhanced images.</li>
+							<li>Running OCR on the cleaned PDF to generate a text-searchable version.</li>
+						</ul>
+					</li>
+					<li>Outputs two versions for each original PDF:
+						<ul>
+							<li>One cleaned but without OCR (<code>filename_FINAL.pdf</code>).</li>
+							<li>One cleaned and searchable with OCR (<code>filename_FINAL_OCR.pdf</code>).</li>
+						</ul>
+					</li>
+					<li>Displays progress messages during processing and handles errors gracefully.</li>
+				</ul>
+			</div>
+
+			<div class="section">
+				<h3>3. Installing Python</h3>
+				<ol>
+					<li>Download Python from <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Run the installer and <hol>ensure you check "Add Python to PATH"</hol>.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>4. Installing Required Libraries and Tools</h3>
+				<ol>
+					<li>Open <hol>PowerShell</hol>.</li>
+					<li>Run:<br><code>pip install pymupdf Pillow ocrmypdf</code></li>
+					<li>Ensure <hol>OCRmyPDF</hol> is installed and functional (it may require additional setup, such as installing Ghostscript, Tesseract, etc.).</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>5. How to Use the Script</h3>
+				<ol>
+					<li>Run the script: <code>limpiar_escaneo_batch_v0.11.py</code>.</li>
+					<li>Select a PDF file or a folder containing multiple PDFs.</li>
+					<li>If a folder is selected, choose whether to include subfolders.</li>
+					<li>Select a destination folder for the output PDFs.</li>
+					<li>The script will enhance page images, recreate the PDF, apply OCR, and save results into the destination folder.</li>
+					<li>Each processed PDF will have two versions:
+					<ul>
+						<li><code>filename_FINAL.pdf</code>: cleaned but without OCR.</li>
+						<li><code>filename_FINAL_OCR.pdf</code>: cleaned and searchable with OCR.</li>
+					</ul>
+					</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+
+			<div class="section">
+				<h3>Introducción</h3>
+				<p>Este script procesa uno o varios archivos PDF, mejorando la calidad de las páginas escaneadas y aplicando OCR (reconocimiento de texto). Mejora el contraste y el brillo, reconstruye el PDF a partir de imágenes mejoradas y aplica OCR utilizando OCRmyPDF, generando un PDF limpio y con texto buscable.</p>
+			</div>
+
+			<div class="section">
+				<h3>2. Descripción Funcional Detallada</h3>
+				<p>El script funciona de la siguiente manera:</p>
+				<ul>
+					<li>Solicita al usuario seleccionar un archivo PDF o una carpeta con múltiples PDFs.</li>
+					<li>Si se selecciona una carpeta, el usuario puede optar por incluir subcarpetas.</li>
+					<li>Procesa cada PDF:
+						<ul>
+							<li>Extrae cada página como imagen.</li>
+							<li>Aplica filtros de brillo, contraste y mejora para limpiar el escaneo.</li>
+							<li>Reconstruye un nuevo PDF a partir de las imágenes mejoradas.</li>
+							<li>Aplica OCR al PDF limpio para generar una versión con texto reconocible.</li>
+						</ul>
+					</li>
+					<li>Genera dos versiones de cada PDF:
+						<ul>
+							<li>Una mejorada pero sin OCR (<code>nombre_FINAL.pdf</code>).</li>
+							<li>Otra mejorada y con OCR (<code>nombre_FINAL_OCR.pdf</code>).</li>
+						</ul>
+					</li>
+					<li>Muestra mensajes de progreso y maneja errores de forma controlada.</li>
+				</ul>
+			</div>
+
+			<div class="section">
+				<h3>3. Instalar Python</h3>
+				<ol>
+					<li>Descarga Python desde <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Ejecuta el instalador y <hol>asegúrate de marcar "Add Python to PATH"</hol>.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>4. Instalar Librerías y Herramientas Necesarias</h3>
+				<ol>
+					<li>Abre <hol>PowerShell</hol>.</li>
+					<li>Ejecuta:<br><code>pip install pymupdf Pillow ocrmypdf</code></li>
+					<li>Asegúrate de que <hol>OCRmyPDF</hol> esté instalado y funcionando (puede requerir Ghostscript, Tesseract, etc.).</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>5. Cómo Usar el Script</h3>
+				<ol>
+					<li>Ejecuta el script: <code>limpiar_escaneo_batch_v0.11.py</code>.</li>
+					<li>Selecciona un archivo PDF o una carpeta con múltiples PDFs.</li>
+					<li>Si seleccionas una carpeta, elige si deseas incluir subcarpetas.</li>
+					<li>Selecciona la carpeta de destino donde se guardarán los PDFs procesados.</li>
+					<li>El script mejorará las imágenes, reconstruirá el PDF, aplicará OCR y guardará los resultados.</li>
+					<li>Cada PDF procesado tendrá dos versiones:
+					<ul>
+						<li><code>nombre_FINAL.pdf</code>: mejorado pero sin OCR.</li>
+						<li><code>nombre_FINAL_OCR.pdf</code>: mejorado y con OCR.</li>
+					</ul>
+					</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

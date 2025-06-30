@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PDF Reprint & Flatten Tool - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; background-color: #f9f9f9; padding: 20px; line-height: 1.6; }
+		h2, h3 { color: #2c3e50; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2980b9; }
+	</style>
+</head>
+<body>
+	<h1>PDF Reprint & Flatten Tool - User Guide / Guía de Usuario</h1>
+
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+
+			<div class="section">
+				<h3>Introduction</h3>
+				<p>This script reprints and flattens every PDF in a selected folder. It uses Ghostscript to regenerate the PDF and PDFtk to flatten the content (i.e., make annotations, forms, and layers non-editable). It's ideal for preparing PDFs for printing or distribution.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Installing Python</h3>
+				<ol>
+					<li>Download Python from <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Run the installer and <hol>check "Add Python to PATH"</hol> before installation.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Installing External Tools</h3>
+				<ol>
+					<li>Install <a href="https://www.ghostscript.com/download/gsdnld.html" target="_blank">Ghostscript</a> (ensure <code>gswin64c</code> or <code>gswin32c</code> is available in PATH).</li>
+					<li>Install <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFtk</a> and ensure <code>pdftk</code> works from the command line.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. How to Use the Script</h3>
+				<ol>
+					<li>Run <code>PDF_reimp_flattenv0.08.py</code>.</li>
+					<li>Select the folder containing your PDF files when prompted.</li>
+					<li>The script will create a new folder named like <code>reimp_YYYYMMDD_HHMMSS</code>.</li>
+					<li>Each original PDF will be:</li>
+					<ul>
+						<li>Reprinted → saved as <code>originalname_reimp.pdf</code></li>
+						<li>Flattened → saved as <code>originalname_reimp_aplanado.pdf</code></li>
+					</ul>
+					<li>Check the output folder for results and logs in the terminal.</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+
+			<div class="section">
+				<h3>Introducción</h3>
+				<p>Este script reimprime y aplana cada archivo PDF en una carpeta seleccionada. Usa Ghostscript para regenerar el archivo y PDFtk para aplanarlo (es decir, convertir formularios y anotaciones en contenido no editable). Es ideal para preparar archivos para impresión o distribución.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Instalar Python</h3>
+				<ol>
+					<li>Descarga Python desde <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Ejecuta el instalador y <hol>marca la opción "Add Python to PATH"</hol> antes de instalar.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Instalar Herramientas Externas</h3>
+				<ol>
+					<li>Instala <a href="https://www.ghostscript.com/download/gsdnld.html" target="_blank">Ghostscript</a> (asegúrate de que <code>gswin64c</code> o <code>gswin32c</code> funcionen desde consola).</li>
+					<li>Instala <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFtk</a> y asegúrate de que <code>pdftk</code> se pueda usar desde la línea de comandos.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. Cómo Usar el Script</h3>
+				<ol>
+					<li>Ejecuta <code>PDF_reimp_flattenv0.08.py</code>.</li>
+					<li>Cuando se te pida, selecciona la carpeta con los archivos PDF.</li>
+					<li>El script creará una subcarpeta con nombre tipo <code>reimp_YYYYMMDD_HHMMSS</code>.</li>
+					<li>Cada archivo PDF será:</li>
+					<ul>
+						<li>Reimpreso → guardado como <code>nombreoriginal_reimp.pdf</code></li>
+						<li>Aplanado → guardado como <code>nombreoriginal_reimp_aplanado.pdf</code></li>
+					</ul>
+					<li>Revisa la carpeta creada para ver los resultados y la consola para mensajes de progreso.</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

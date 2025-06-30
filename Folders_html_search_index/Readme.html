@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>README – Html_Renderer_v0.05.py</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 2rem; background: #f7f7fa; color: #20232a; }
+    h1, h2, h3 { color: #193a5d; }
+    pre, code { background: #eee; border-radius: 6px; padding: 2px 6px; }
+    ul { margin-bottom: 1.2em; }
+    section { background: #fff; margin: 0 0 2em 0; padding: 1.5em 2em; border-radius: 1em; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
+  </style>
+</head>
+<body>
+  <h1>README – Html_Renderer_v0.05.py</h1>
+  <section>
+    <h2>1. What the Hell Does This Script Do?</h2>
+    <p>
+      <b><code>Html_Renderer_v0.05.py</code></b> is a Python script that <b>indexes the contents</b> of a folder filled with documents (<code>.pdf</code>, <code>.docx</code>, <code>.txt</code>) and generates a <b>searchable HTML index</b>.<br>
+      The output is a shiny <b>HTML web page</b> where you can search document names and content, see matches, page numbers, and a tree view of your folder. Supports wildcards (*, ?) and substring searching—think Google Search meets Windows Explorer, but more polite and less likely to crash.
+    </p>
+  </section>
+
+  <section>
+    <h2>2. How Does It Work? (Deep Dive, Nerd Alert)</h2>
+    <ol>
+      <li>
+        <b>Document Crawling & Indexing</b>:<br>
+        - Recursively scans the given folder.<br>
+        - Reads every <b>PDF</b>, <b>Word</b> (<code>.docx</code>), and <b>text</b> file.<br>
+        - Extracts the full text and, for PDFs, also grabs the text <b>page by page</b>.<br>
+        - Saves a JSON entry for each file with metadata (filename, relative path, extracted content, per-page content, file size, mod date, etc).
+      </li>
+      <li>
+        <b>HTML Generation</b>:<br>
+        - Takes all those JSON blobs, shoves them into a pre-baked HTML template.<br>
+        - Generates a <b>folder tree</b> view as collapsible lists.<br>
+        - Loads the JSON data directly into the page as a JS variable.
+      </li>
+      <li>
+        <b>Front-End Search</b> (No Server Needed):<br>
+        - Full text search powered by <b>Lunr.js</b>.<br>
+        - Wildcard and substring searches work as expected.<br>
+        - Shows how many results and on which pages the matches appear.
+      </li>
+      <li>
+        <b>Extras</b>:<br>
+        - Files with unsupported extensions are logged and ignored.<br>
+        - Errors during processing are written to a log file (so you can blame the right files).
+      </li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>3. What Do I Need to Install?</h2>
+    <ul>
+      <li><b>Python 3.8+</b> (Don’t even try with Python 2.7, just don’t.)</li>
+      <li><b>Python packages:</b>
+        <ul>
+          <li><code>PyMuPDF</code> (aka <code>fitz</code>) – for PDFs: <code>pip install pymupdf</code></li>
+          <li><code>python-docx</code> – for Word files: <code>pip install python-docx</code></li>
+          <li><code>tqdm</code> – for progress bars (optional but nice): <code>pip install tqdm</code></li>
+        </ul>
+      </li>
+      <li>
+        <b>Browser</b> – To open the generated <code>index.html</code>. Preferably something invented after 2010.
+      </li>
+      <li>
+        <b>logo_proinelca.png</b> – If you want your index page to look legit (put it next to the HTML).
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. How the F*ck Do I Use This? (Examples)</h2>
+    <h3>A. Quickstart (Terminal, CLI, Shell—whatever you call it)</h3>
+    <ol>
+      <li>Open your favorite terminal.</li>
+      <li>Run the script with the folder you want to index:<br>
+        <pre>python Html_Renderer_v0.05.py --source_folder "C:\path\to\your\docs"</pre>
+      </li>
+      <li>
+        When it finishes, look for a new folder at the same level as your source, named something like <code>index_yourdocs</code>.
+        <ul>
+          <li>Inside: <code>index.html</code> (the main page)</li>
+          <li><code>index_data/</code> (the per-file JSONs, plus logs)</li>
+        </ul>
+      </li>
+      <li>Double-click <b>index.html</b> to open it in your browser and start searching.</li>
+    </ol>
+    <h3>B. Example Command</h3>
+    <pre>
+python Html_Renderer_v0.05.py --source_folder "D:\Projects\Archive2024"
+    </pre>
+    <h3>C. Customizing Output Location</h3>
+    <ul>
+      <li>By default, output goes to a sibling folder named <code>index_[yourfolder]</code>.</li>
+      <li>If you want to hack the output location, tweak the script (look for <code>index_folder = ...</code> in <code>__main__</code>).</li>
+    </ul>
+    <h3>D. What Gets Ignored?</h3>
+    <ul>
+      <li>Files that aren’t <code>.pdf</code>, <code>.docx</code>, or <code>.txt</code>.</li>
+      <li>Corrupted, passworded, or unreadable files are listed in <code>errores.log</code> for your pleasure.</li>
+    </ul>
+    <h3>E. You Want to Change the Logo?</h3>
+    <ul>
+      <li>Replace <code>logo_proinelca.png</code> with your own PNG, keep the name, or change it in the HTML template inside the script.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5. Troubleshooting & FAQ</h2>
+    <ul>
+      <li>
+        <b>Q:</b> "I see errors about <code>fitz</code> or <code>docx</code>!"<br>
+        <b>A:</b> Did you run <code>pip install pymupdf python-docx tqdm</code>? Really?
+      </li>
+      <li>
+        <b>Q:</b> "Some files are missing!"<br>
+        <b>A:</b> Unsupported extension? See <code>ignorados.log</code>. Failed to read? See <code>errores.log</code>.
+      </li>
+      <li>
+        <b>Q:</b> "The HTML search is broken!"<br>
+        <b>A:</b> Make sure <code>index.html</code> and the <code>index_data/</code> folder are in the right place. Also, open with a real browser, not with Notepad.
+      </li>
+    </ul>
+  </section>
+  <section>
+    <h2>6. Who’s to Blame?</h2>
+    <ul>
+      <li>This was built for engineering teams who want <b>fast, local, zero-setup document search</b> without running a server or paying for cloud AI.</li>
+      <li>Script is provided AS IS. Don’t sue. PRs welcome. Praise and caffeine even more so.</li>
+    </ul>
+  </section>
+</body>
+</html>

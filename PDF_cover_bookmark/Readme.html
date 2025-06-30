@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PDF Cover Marker - User Guide</title>
+	<style>
+		body { font-family: Arial, sans-serif; background-color: #f9f9f9; padding: 20px; line-height: 1.6; }
+		h2, h3 { color: #2c3e50; }
+		.section { margin-bottom: 40px; }
+		.guide { display: flex; flex-wrap: wrap; gap: 40px; }
+		.column { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+		hol { font-weight: bold; color: #2980b9; }
+	</style>
+</head>
+<body>
+	<h1>PDF Cover Marker - User Guide / Guía de Usuario</h1>
+
+	<div class="guide">
+		<div class="column">
+			<h2>🇬🇧 English</h2>
+			<div class="section">
+				<h3>Introduction</h3>
+				<p>This script adds a bookmark titled <code>Cover</code> to the first page of every PDF file in a selected folder. It saves the modified PDFs into another folder, making it easy to navigate large PDF collections where a title or intro page needs highlighting.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Installing Python</h3>
+				<ol>
+					<li>Download Python from <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Run the installer and <hol>make sure to check "Add Python to PATH"</hol>.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Installing Required Libraries</h3>
+				<ol>
+					<li>Open <hol>PowerShell</hol>.</li>
+					<li>Run the following command:<br><code>pip install pypdf</code></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. How to Use the Script</h3>
+				<ol>
+					<li>Run the script: <code>Marcador_cover_PDF.py</code>.</li>
+					<li>When prompted, select the folder with your original PDFs.</li>
+					<li>Then select the folder where the modified PDFs should be saved.</li>
+					<li>The script will add a bookmark to the first page of each file and save the result.</li>
+					<li>A confirmation message will appear once all PDFs have been processed.</li>
+				</ol>
+			</div>
+		</div>
+
+		<div class="column">
+			<h2>🇪🇸 Español</h2>
+			<div class="section">
+				<h3>Introducción</h3>
+				<p>Este script añade un marcador titulado <code>Cover</code> a la primera página de cada archivo PDF en una carpeta seleccionada. Guarda los PDFs modificados en otra carpeta, facilitando la navegación en grandes colecciones de PDFs donde se desea resaltar una portada o introducción.</p>
+			</div>
+
+			<div class="section">
+				<h3>1. Instalar Python</h3>
+				<ol>
+					<li>Descarga Python desde <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
+					<li>Ejecuta el instalador y <hol>asegúrate de marcar "Add Python to PATH"</hol>.</li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>2. Instalar Librerías Necesarias</h3>
+				<ol>
+					<li>Abre <hol>PowerShell</hol>.</li>
+					<li>Ejecuta el siguiente comando:<br><code>pip install pypdf</code></li>
+				</ol>
+			</div>
+
+			<div class="section">
+				<h3>3. Cómo Usar el Script</h3>
+				<ol>
+					<li>Ejecuta el script: <code>Marcador_cover_PDF.py</code>.</li>
+					<li>Cuando se te pida, selecciona la carpeta con los PDFs originales.</li>
+					<li>Luego, selecciona la carpeta donde se guardarán los PDFs modificados.</li>
+					<li>El script añadirá un marcador a la primera página de cada archivo y lo guardará.</li>
+					<li>Aparecerá un mensaje de confirmación al finalizar el proceso.</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
